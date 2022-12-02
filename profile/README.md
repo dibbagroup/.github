@@ -1,7 +1,5 @@
 # 🎉 Dibba
 
-### Bom... deixa eu te explicar um pouco como funciona o nosso gitflow
-
 <br/>
 <h2><b>🚀 Branches</b></h2>
 <details>
